@@ -1,5 +1,5 @@
 # data file is large and doesn't need to be tracked by git
-data/  
+#data/  
 
 #ignore python cache files which are created auto to speed up execution of scripts instead of recompiling 
 # python files every time you run the code
@@ -23,3 +23,6 @@ Thumbs.ds
 
 # ignore log files
 *.log
+
+#ignore a scpecific notebook file
+rough_draft.ipynb
