@@ -79,8 +79,8 @@ In the auto insurance industry, accurately predicting which customers are likely
 
 ## 📁 Project Structure
 ├── data                       
-├── .gitignore                          
-├── README.md     
+├── .gitignore                             
 ├── Index.ipynb   
 ├── Index.pdf 
-├── Presentation.pdf  
+├── Presentation.pdf
+├── README.md  
