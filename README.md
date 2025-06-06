@@ -61,7 +61,7 @@ In the auto insurance industry, accurately predicting which customers are likely
 
 ---
 
-## 📌 Business Recommendations
+## Business Recommendations
 
 - **Flag High-Risk Customers**: Use the model to identify customers likely to file a claim and flag them for manual underwriting.
 - **Improve Fraud Detection**: Incorporate predictions into fraud detection workflows to detect suspicious patterns early.
@@ -69,7 +69,7 @@ In the auto insurance industry, accurately predicting which customers are likely
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - Engineer more complex and meaningful features to enhance model learning.
 - Explore advanced ensemble models (e.g., CatBoost, LightGBM, Stacking).
