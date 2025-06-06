@@ -46,7 +46,7 @@ In the auto insurance industry, accurately predicting which customers are likely
    - Handled class imbalance using `class_weight` and evaluation-based selection
 
 4. **Model Choice explanation**
-   - SHAP values are planned for future integration to interpret model decisions
+   - 3 Pharagraph stating which model is best for the company to deploy
 
 ---
 
