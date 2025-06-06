@@ -81,6 +81,6 @@ In the auto insurance industry, accurately predicting which customers are likely
 ├── data                       
 ├── .gitignore                             
 ├── Index.ipynb   
-├── Index.pdf 
-├── Presentation.pdf
-├── README.md  
+├── Index.pdf      
+├── Presentation.pdf                              
+└── README.md                          
