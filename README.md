@@ -80,7 +80,7 @@ In the auto insurance industry, accurately predicting which customers are likely
 ## 📁 Project Structure
 ├── data                       
 ├── .gitignore                          
-├── README.md  
-├── Car_Insurance_Prediction.pdf     
-├── Index.ipynb                                                          
-
+├── README.md     
+├── Index.ipynb   
+├── Index.pdf 
+├── Presentation.pdf  
